@@ -1,0 +1,19 @@
+create two folders named  :  frontend and backend
+
+
+in frontend folder create a react app named   : npx create-react-app ecommerse-frontend
+
+bootswatch.com   -----select theame download bootstrap.min.css
+
+
+please install 	:	npm install react-bootstrap
+
+
+copy the code of navbar in navbar component.
+
+
+then setup the backend authentication
+
+
+
+
